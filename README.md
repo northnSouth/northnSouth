@@ -1,5 +1,5 @@
-#Hi, I'm North
-###Front-End Web Developer
+# Hi, I'm North
+### Front-End Web Developer
 
 Reach me at aftitonf@gmail.com
 
