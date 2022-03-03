@@ -1,6 +1,8 @@
 # Hi, I'm North
 ### Front-End Web Developer
 
+https://img.shields.io/github/followers/northnSouth?style=social https://img.shields.io/github/stars/northnSouth?style=social
+
 Reach me at aftitonf@gmail.com
 
 <!---
