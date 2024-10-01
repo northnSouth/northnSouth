@@ -1,6 +1,6 @@
 # Hi, I'm North 😁
 amateur,
-### Front-End Web Developer
+### Robotics Enthusiast
 
 ![followers](https://img.shields.io/github/followers/northnSouth?style=social) ![stars](https://img.shields.io/github/stars/northnSouth?style=social)
 
