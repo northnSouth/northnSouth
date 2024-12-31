@@ -1,6 +1,6 @@
 # Hi, I'm North 😁
-amateur,
-### Robotics Enthusiast
+
+I just love computers and electronics.
 
 ![followers](https://img.shields.io/github/followers/northnSouth?style=social) ![stars](https://img.shields.io/github/stars/northnSouth?style=social)
 
