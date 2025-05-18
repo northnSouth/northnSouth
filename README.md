@@ -37,9 +37,15 @@
     </a>
 </div>
 
+## Projects
+
+<div align="left"">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=northnsouth&repo=ros2_mecabot&show_owner=true&bg_color=30,0a121c,0a121c,05294F&hide_border=true&text_color=ffffff&icon_color=ffffff">
+</div>
+
 ## Github Stats
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=northnsouth&bg_color=0a121c&hide_border=true&text_color=ffffff" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=northnsouth&bg_color=0a121c&hide_border=true&text_color=ffffff&hide_title=true" height="180">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=northnsouth&layout=compact&bg_color=0a121c&hide_border=true&text_color=ffffff" height="180">
 </div>
