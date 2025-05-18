@@ -11,9 +11,14 @@
 
 📬 Reach me at afito.faturohim@gmail.com
 
+
 ## Tech Stack
 
-<div align="left">
+<div align="center">
+    <img src="assets/gloria_bot.png">
+</div>
+<br>
+<div align="center">
     <a href="https://github.com/ros2/ros2">
         <img src="assets/ros2.png" height="40" alt="Robot Operating System 2"/>
     </a>
@@ -36,6 +41,8 @@
         <img src="assets/stm32.png" height="40" alt="STM32 MCU"/>
     </a>
 </div>
+
+
 
 ## Projects
 
