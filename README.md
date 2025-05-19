@@ -1,7 +1,6 @@
 <div align="center">
     <img src="assets/pipes.png">
 </div>
-<br>
 
 ## About Me
 
