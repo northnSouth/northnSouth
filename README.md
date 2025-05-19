@@ -46,9 +46,6 @@
     <a href="https://www.freecad.org/">
         <img src="assets/freecad.png" height="40" alt="FreeCAD"/>
     </a>
-    <a href="https://www.ni.com/en/shop/labview.html/">
-        <img src="assets/labview.png" height="40" alt="FreeCAD"/>
-    </a>
 </div>
 
 
