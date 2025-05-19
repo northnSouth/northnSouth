@@ -40,6 +40,7 @@
     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html">
         <img src="assets/stm32.png" height="40" alt="STM32 MCU"/>
     </a>
+    <br><br>
     <a href="https://www.freecad.org/">
         <img src="assets/freecad.png" height="40" alt="FreeCAD"/>
     </a>
