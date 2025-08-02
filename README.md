@@ -12,7 +12,7 @@
 
 🐧 Long live Free and Open Source Software!
 
-📬 Reach me at afito.faturohim@gmail.com
+📬 Reach me at aftito.faturohim@gmail.com
 
 
 ## Tech Stack
