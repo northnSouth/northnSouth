@@ -4,9 +4,9 @@
 
 ## About Me
 
-✨ Greetings!, I'm Fatur *(or you can call me North)*, your average computer nerd with huge interest in the field of mobile robots engineering. Welcome to my Github profile!
+✨ Greetings!, I'm Fatur, that slightly intense mobile robots nerd. Welcome to my Github profile!
 
-🎮 Casual gamer, loves hack and slash and MMORPG.
+🎮 Casual gamer, I play almost any genre.
 
 ⛩️ Watching some anime in spare time, mostly SoL.
 
