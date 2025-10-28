@@ -4,7 +4,7 @@
 
 ## About Me
 
-✨ Greetings!, I'm Fatur, that slightly intense mobile robots nerd. Welcome to my Github profile!
+✨ Greetings!, I'm Fatur, I breathe ground mobile robots! :P
 
 🎮 Casual gamer, I play almost any genre.
 
