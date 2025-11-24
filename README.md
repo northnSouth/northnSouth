@@ -4,7 +4,7 @@
 
 ## About Me
 
-✨ Greetings!, I'm Fatur, I breathe ground mobile robots! :P
+✨ Greetings!, call me North.
 
 🎮 Casual gamer, I play almost any genre.
 
