@@ -6,9 +6,9 @@
 
 ✨ Greetings!, call me North.
 
-🎮 Casual gamer, I play almost any genre.
+🎮 Casual gamer (no time though).
 
-⛩️ Watching some anime in spare time, mostly SoL.
+⛩️ Watching some anime in spare time (almost no spare time T-T).
 
 🐧 Long live Free and Open Source Software!
 
