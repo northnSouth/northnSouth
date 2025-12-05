@@ -6,9 +6,7 @@
 
 ✨ Greetings!, call me North.
 
-🎮 Casual gamer (no time though).
-
-⛩️ Watching some anime in spare time (almost no spare time T-T).
+💻 Mobile roboticist, low-level software developer, internet dweller, casual gamer.
 
 🐧 Long live Free and Open Source Software!
 
@@ -44,21 +42,4 @@
     <a href="https://www.freecad.org/">
         <img src="assets/freecad.png" height="40" alt="FreeCAD"/>
     </a>
-</div>
-
-
-
-## Projects
-
-<div align="left"">
-    <a href="https://github.com/northnSouth/ros2_mecabot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=northnsouth&repo=ros2_mecabot&show_owner=true&bg_color=30,142236,142236,05294F&hide_border=true&text_color=ffffff&icon_color=ffffff" height="160">
-    </a>
-</div>
-
-## Github Stats
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=northnsouth&bg_color=0a121c&hide_border=true&text_color=ffffff&hide_title=true" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=northnsouth&layout=compact&bg_color=0a121c&hide_border=true&text_color=ffffff" height="180">
 </div>
