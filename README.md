@@ -4,7 +4,7 @@
 
 ## About Me
 
-✨ Greetings!, call me North.
+✨ Greetings!, my nickname is North.
 
 💻 Mobile roboticist, low-level software developer, internet dweller, casual gamer.
 
