@@ -1,4 +1,8 @@
 <div align="center">
+    <img src="assets/gloria_bot.png">
+</div>
+<br>
+<div align="center">
     <img src="assets/pipes.png">
 </div>
 
@@ -12,12 +16,8 @@
 
 📫 Reach me at aftito.faturohim@gmail.com
 
-
 ## Tech Stack
 
-<div align="center">
-    <img src="assets/gloria_bot.png">
-</div>
 <br>
 <div align="center">
     <a href="https://github.com/ros2/ros2">
