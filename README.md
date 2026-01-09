@@ -1,9 +1,5 @@
 <div align="center">
-    <img src="assets/gloria_bot.png">
-</div>
-<br>
-<div align="center">
-    <img src="assets/pipes.png">
+    <img src="assets/new_gh_header.png">
 </div>
 
 ## About Me
