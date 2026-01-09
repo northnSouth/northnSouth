@@ -10,6 +10,8 @@
 
 🐧 Long live free and open source software!
 
+📫 Reach me at aftito.faturohim@gmail.com
+
 
 ## Tech Stack
 
