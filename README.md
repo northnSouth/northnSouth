@@ -6,9 +6,9 @@
 
 ✨ Greetings!
 
-💻 Mobile roboticist, low-level software developer, internet dweller, casual gamer.
+💻 Mobile robots, low-level software, internet, video games.
 
-🐧 Long live Free and Open Source Software!
+🐧 Long live free and open source software!
 
 
 ## Tech Stack
