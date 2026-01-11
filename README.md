@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/new_gh_header.png">
+    <img src="new_gh_header.png">
 </div>
 
 ## Hi, I'm ![Fatur](#)
