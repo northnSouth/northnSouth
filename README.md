@@ -4,9 +4,7 @@
 
 ## About Me
 
-✨ Greetings!
-
-💻 Mobile robots, low-level software, internet, video games.
+💻 Mobile roboticist, low-level software programmer.
 
 🐧 Long live free and open source software!
 
