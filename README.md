@@ -14,7 +14,7 @@
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=ros,cpp,c,py,docker,linux,bash,debian,raspberrypi,arduino)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ros,cpp,c,py,docker,linux,debian,mint,raspberrypi,arduino)](https://skillicons.dev)
 
 - Robotics with ![ROS 2](https://github.com/ros2) and ![Gazebo](https://gazebosim.org/home) for simulation.
 - C++ and Python proficiency, uses Docker occasionally. 
