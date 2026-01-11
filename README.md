@@ -4,9 +4,11 @@
 
 ## About Me
 
-💻 Mobile roboticist, low-level software programmer.
+🎓 Computer Engineering undergraduate at ![Diponegoro University](undip.ac.id).
 
-🐧 Long live free and open source software!
+💻 Mobile robotics and low-level software engineer wannabe.
+
+🐧 FOSS fanboy. Long live free and open source software!
 
 📫 Reach me at aftito.faturohim@gmail.com
 
