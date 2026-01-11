@@ -2,11 +2,11 @@
     <img src="assets/new_gh_header.png">
 </div>
 
-## About Me
+## Hi, I'm ![Fatur](#)
 
 🎓 Computer Engineering undergraduate at ![Diponegoro University](undip.ac.id).
 
-💻 Mobile robotics and low-level software engineer wannabe.
+💻 Mobile roboticist and low-level software engineer wannabe.
 
 🐧 FOSS fanboy. Long live free and open source software!
 
