@@ -10,7 +10,7 @@
 
 🐧 FOSS fanboy. Long live free and open source software!
 
-📫 Reach me at aftito.faturohim@gmail.com
+📫 Reach me at aftito.faturohim@gmail.com. Feel free to chat!
 
 ## Skills
 
