@@ -6,7 +6,7 @@
 
 🎓 Computer Engineering undergraduate at [Diponegoro University](undip.ac.id).
 
-💻 Mobile roboticist and low-level software engineer wannabe.
+💻 Mobile roboticist and low-level software engineer.
 
 🐧 FOSS fanboy. Long live free and open source software!
 
