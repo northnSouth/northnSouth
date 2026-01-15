@@ -4,7 +4,7 @@
 
 ## Hi, I'm [Fatur](github.com/northnSouth)
 
-🎓 Computer Engineering undergraduate at [Diponegoro University](undip.ac.id).
+🎓 Computer Engineering undergraduate at [Diponegoro University](https://undip.ac.id/).
 
 💻 Mobile roboticist and low-level software engineer.
 
