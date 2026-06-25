@@ -2,13 +2,13 @@
     <img src="new_gh_header.png">
 </div>
 
-## Hi, I'm [Fatur](github.com/northnSouth)
+## Hi, I'm [North](github.com/northnSouth)
 
 🎓 Computer Engineering undergraduate at [Diponegoro University](https://undip.ac.id/).
 
 💻 Mobile roboticist and low-level software engineer.
 
-🐧 FOSS fanboy. Long live free and open source software!
+🐧 FOSS!
 
 📫 Reach me at aftito.faturohim@gmail.com. Feel free to chat!
 
