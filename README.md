@@ -18,5 +18,5 @@
 
 - Robotics with [ROS 2](https://github.com/ros2) and [Gazebo](https://gazebosim.org/home) for simulation.
 - C++ and Python proficiency, uses Docker occasionally. 
-- Familiarity with Debian-based Linux distributions, Mint daily driver.
+- Familiarity with Debian-based Linux distributions, Mint daily driver since 2021.
 - Embedded software with Raspberry Pi, STM32, Arduino, and NVIDIA Jetson.
