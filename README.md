@@ -8,7 +8,9 @@
 
 💻 Mobile roboticist and low-level software engineer.
 
-🐧 FOSS!
+🥼 Part of [Undip Robotics Development Center](https://www.instagram.com/robotikundip/)
+
+🐧 Free and Open Source Software !
 
 📫 Reach me at aftito.faturohim@gmail.com. Feel free to chat!
 
